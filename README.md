@@ -1,5 +1,5 @@
 # GoogleHashCode2021-TrafficSignallingOptimized
- An optimez versioon of my solusion for Google Hash Code 2021 Traffic Signalling problem
+ An optimized version of my solution for Google Hash Code 2021 Traffic Signaling problem
 
 
  The total score for this solution is 7,951,159 points
