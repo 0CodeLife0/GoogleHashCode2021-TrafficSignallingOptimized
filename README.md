@@ -4,6 +4,14 @@
 
  The total score for this solution is 7,951,159 points
  
+-----
+## Video Explanation:
+
+[![Traffic Signaling Problem Solution | Online Qualification Round Google Hash Code Competition 2021](https://img.youtube.com/vi/B1gmKZZOHuY/maxresdefault.jpg)](https://youtu.be/B1gmKZZOHuY)
+
+-----
+## Each File's score
+
  
 ![image](https://user-images.githubusercontent.com/78293818/110086226-29d68d00-7da3-11eb-8f43-b0f6b2e62731.png)
 
